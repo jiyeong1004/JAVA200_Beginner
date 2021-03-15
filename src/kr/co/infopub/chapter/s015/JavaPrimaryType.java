@@ -5,7 +5,6 @@ package kr.co.infopub.chapter.s015;
 public class JavaPrimaryType {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		boolean isL = false;
 		char suit = 'H';
 		int year = 2016;
