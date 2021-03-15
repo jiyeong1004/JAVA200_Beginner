@@ -1,4 +1,4 @@
-// 자바 프로그래밍 실행하기
+// 014. 자바 프로그래밍 실행하기
 package kr.co.infopub.chapter.s014;
 
 public class Hello {

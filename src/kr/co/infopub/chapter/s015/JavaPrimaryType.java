@@ -1,4 +1,4 @@
-// 기본 타입 선언하기
+// 015. 기본 타입 선언하기
 package kr.co.infopub.chapter.s015;
 
 // 기본 타입의 종류
